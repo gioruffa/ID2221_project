@@ -1,0 +1,298 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$1.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$2.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$3.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$4.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$5.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark.class
+binary dependencies:
+11 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.8.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-0.8.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming-kafka-0-8_2.11/jars/spark-streaming-kafka-0-8_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$2
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$3
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$4
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$5
+used names:
+176 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> *
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> +
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ->
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> <byname>
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> <init>
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> <repeated>
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> A
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Any
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> AnyRef
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Array
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ArrowAssoc
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> B
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> BinaryClassificationEvaluator
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> BinaryClassificationMetrics
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Boolean
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ClassTag
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Cluster
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ConsumerConfig
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> CrossValidator
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> DStream
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> DataFrame
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Date
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Decoder
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> DefaultDecoder
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Double
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Duration
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Function1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Function3
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> HashMap
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Host
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> InputDStream
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Int
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> IntegerType
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> K
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KD
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KafkaProducer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KafkaSpark
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KafkaUtils
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KeyType
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> LogisticRegression
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Long
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Map
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MapWithStateDStream
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MappedType
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MatchError
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Metadata
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MulticlassMetrics
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Nothing
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Object
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Option
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Ordering
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> PairDStreamFunctions
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ParamGridBuilder
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ParamMap
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> PipelineModel
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Predef
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ProducerConfig
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ProducerRecord
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Properties
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Random
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SaveMode
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ScalaRunTime
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Seconds
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Session
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Set
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SparkConf
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> State
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StateSpec
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StateType
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StorageLevel
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StreamingContext
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> String
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StringDecoder
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StringDeserializer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T2
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T3
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T4
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T5
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Tuple2
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Tuple4
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Tuple5
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> U
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Unit
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> V
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> VD
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ValueType
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _$3
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _$4
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _$7
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _2
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _3
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _4
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> apache
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> apply
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> arrayClass
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> awaitTermination
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> cassandra
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> checkpoint
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> classification
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> classify
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> clients
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> com
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> common
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> conf
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> connector
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> consumer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> core
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> createDirectStream
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> datastax
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> driver
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> dstream
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> evaluation
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> exists
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> feature
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> fn
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> fp
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> function
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> functions
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> get
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> getOrElse
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> getTransaction
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> io
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> java
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> kafka
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> kafkaConf
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> load
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> map
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mapWithState
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mappingFunc
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> materializeClassTag
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> math
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> messages
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ml
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mllib
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> nextInt
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> org
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> package
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> pairs
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> param
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> print
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> producer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> r
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> recall
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sanitizedValue
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> scala
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> serialization
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> serializer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> setAppName
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> setMaster
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> spark
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> split
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> splitted
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sql
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ssc
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> start
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> state
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> stateDstream
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> storage
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> streaming
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> tn
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> toInt
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> toPairDStreamFunctions
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> topics
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> tp
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> tuning
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> types
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> update
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> util
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> value
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> x
+product stamps:
+7 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$1.class -> lastModified(1541082695000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$2.class -> lastModified(1541082695000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$3.class -> lastModified(1541082695000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$4.class -> lastModified(1541082695000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$5.class -> lastModified(1541082695000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$.class -> lastModified(1541082695000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark.class -> lastModified(1541082695000)
+source stamps:
+1 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> hash(e203dd5919780054c4478fa08d59d24416a07112)
+binary stamps:
+11 items
+/home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar -> lastModified(1495063902000)
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.8.2.1.jar -> lastModified(1424990549000)
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-0.8.2.1.jar -> lastModified(1424990117000)
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.1.jar -> lastModified(1511587618000)
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar -> lastModified(1511587749000)
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.1.jar -> lastModified(1511587859000)
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.1.jar -> lastModified(1511587028000)
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming-kafka-0-8_2.11/jars/spark-streaming-kafka-0-8_2.11-2.2.1.jar -> lastModified(1511587060000)
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar -> lastModified(1511587938000)
+/home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1524066039000)
+class names:
+11 items
+/home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar -> com.datastax.driver.core.Session
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.8.2.1.jar -> org.apache.kafka.common.serialization.StringDeserializer
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-0.8.2.1.jar -> kafka.serializer.StringDecoder$
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.1.jar -> org.apache.spark.sql.types.IntegerType
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar -> org.apache.spark.SparkConf
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.1.jar -> org.apache.spark.ml.classification.LogisticRegression
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.1.jar -> org.apache.spark.sql.functions$
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming-kafka-0-8_2.11/jars/spark-streaming-kafka-0-8_2.11-2.2.1.jar -> org.apache.spark.streaming.kafka.KafkaUtils$
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar -> org.apache.spark.streaming.dstream.PairDStreamFunctions
+/home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Function3
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlosXZwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8LdwEnQABm5vdGlmeXNxAH4ADF2eOa50AAR3YWl0c3EAfgAMQR6Y/XQADmdldFRyYW5zYWN0aW9uc3EAfgAMYKJGmHQADSRhc0luc3RhbmNlT2ZzcQB+AAxAdN8vdAAGZXF1YWxzc3EAfgAMqmR3NnQADGFzSW5zdGFuY2VPZnNxAH4ADH+5vF90AAxzeW5jaHJvbml6ZWRzcQB+AAwWRhO1dAANJGlzSW5zdGFuY2VPZnNxAH4ADNkdVJh0AARtYWluc3EAfgAMvDjnQXQACW5vdGlmeUFsbHNxAH4ADPAVw7d0AAxpc0luc3RhbmNlT2ZzcQB+AAwooX4YdAACPT1zcQB+AAxGMJXWdAAFY2xvbmVzcQB+AAzJW270dAAIdG9TdHJpbmdzcQB+AAzYoma0dAACIT1zcQB+AAywGIN/dAAIZ2V0Q2xhc3NzcQB+AAy8X/WNdAACbmVzcQB+AAxQfy4MdAACZXFzcQB+AAzRRndldAAKS2Fma2FTcGFya3NxAH4ADPEE+cx0AAIjI3NxAH4ADCCLQp10AAhmaW5hbGl6ZXNxAH4ADPBdjCV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABlzcGFya3N0cmVhbWluZy5LYWZrYVNwYXJrdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AH3VxAH4AUwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFZ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3NxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AJMAAAACc3EAfgBudAAGT2JqZWN0cQB+AJdzcQB+AG50AANBbnlxAH4AdHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADnNwYXJrc3RyZWFtaW5nc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmz6+ziXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFkvZGF0YS9VbmlEYXRhL0RhdGFJbnRlbnNpdmVDb21wdXRpbmcvcHJvamVjdC9zcmMvc3BhcmtzdHJlYW1pbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOID3VkZeABUxEePoI1Z0kQWoHES
+external apis:
+0 items
+source infos:
+1 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs+pMPN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs+uP951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs+vs4l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
