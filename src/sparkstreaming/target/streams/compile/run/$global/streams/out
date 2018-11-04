@@ -182,7 +182,3 @@
 [0m[[0mdebug[0m] [0m	/home/giorgio/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar[0m
 [0m[[0mdebug[0m] [0m	/home/giorgio/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/bundles/cassandra-driver-core-3.0.0.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread Thread-2 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread Thread-2 exited.[0m
-[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m

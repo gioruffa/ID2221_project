@@ -19,7 +19,7 @@ object ScalaProducerExample extends App {
     val producer = new KafkaProducer[String, String](props)
 
     // Read from CSV input file containing creditcard transactions
-	val lines = Source.fromFile("creditcard_subset1000_fake.csv").getLines.toArray
+	val lines = Source.fromFile("../../data/inTheLockerCSV/inTheLocker.csv").getLines.toArray
     
 	// Iterate through all lines in cached CSV file and send to Kafka
     for ( x <- lines ) {
