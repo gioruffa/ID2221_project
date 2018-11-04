@@ -14,5 +14,9 @@ libraryDependencies ++= Seq(
   ("com.datastax.cassandra" % "cassandra-driver-core" % "3.0.0").exclude("io.netty", "netty-handler")
 )
 
+// https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch-spark
+libraryDependencies += "org.elasticsearch" %% "elasticsearch-spark" % "2.4.5"
+
+
 
 

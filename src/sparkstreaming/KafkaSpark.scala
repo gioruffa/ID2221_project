@@ -39,6 +39,8 @@ import org.apache.spark.mllib.evaluation.MulticlassMetrics
 import org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
 import org.apache.spark.sql.SparkSession
 
+import org.elasticsearch.spark._
+
 object KafkaSpark {
   
   def getTransaction(x:String) : Array[String] = {
@@ -170,6 +172,11 @@ object KafkaSpark {
 //    stateDstream.print
     stateDstream.saveAsTextFiles("../../data/results/result")
     //stateDstream.getStatistics()
+
+    val numbers = Map("one" -> 1, "two" -> 2, "three" -> 3)
+    val airports = Map("arrival" -> "Otopeni", "SFO" -> "San Fran")
+
+    ssc.sparkContext.makeRDD(Seq(numbers, airports)).saveToEs("creditcard")
 
     ssc.checkpoint("/tmp")
     ssc.start()
