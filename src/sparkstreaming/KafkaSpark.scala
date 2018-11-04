@@ -118,10 +118,7 @@ object KafkaSpark {
         case "10" => 2 //fp
         case "00" => 3 //tn
       }
-      // RESULT FROM MODEL!
-//      val r = scala.util.Random
-//      val classification = r.nextInt(4).toInt
-      // dummy key for mapwithstate
+
       (1, classification)
     }
 
