@@ -28,7 +28,7 @@ object ScalaProducerExample extends App {
         val data = new ProducerRecord[String, String](topic, null, transactionData)
         producer.send(data)
         print(data + "\n")
-        Thread.sleep(244) // wait for 1000 millisecond
+        Thread.sleep(10) // wait for 1000 millisecond
       }
 
     producer.close()

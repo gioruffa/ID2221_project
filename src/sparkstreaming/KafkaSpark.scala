@@ -167,8 +167,8 @@ object KafkaSpark {
 
     val stateDstream = pairs.mapWithState(StateSpec.function(mappingFunc _))
 
-    stateDstream.print
-
+//    stateDstream.print
+    stateDstream.saveAsTextFiles("../../data/results/result")
     //stateDstream.getStatistics()
 
     ssc.checkpoint("/tmp")
