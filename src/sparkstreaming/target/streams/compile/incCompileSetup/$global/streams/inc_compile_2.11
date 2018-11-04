@@ -19,31 +19,38 @@ name hashing:
 1 items
 0 -> true
 products:
-11 items
+17 items
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$1.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$2.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$3.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$4.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$5.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1$$anonfun$apply$1$$anonfun$6.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1$$anonfun$apply$1.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$.class
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$MyMetric$3.class
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$MyMetric$4$.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/SparkSessionSingleton$.class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/SparkSessionSingleton.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer$$anonfun$1$$anonfun$apply$1.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer$$anonfun$1.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer$.class
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer.class
 binary dependencies:
-11 items
+12 items
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.8.2.1.jar
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-0.8.2.1.jar
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.1.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-1.0.0.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-1.0.0.jar
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.1.jar
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.1.jar
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming-kafka-0-8_2.11/jars/spark-streaming-kafka-0-8_2.11-2.2.1.jar
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-1.0.0.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -53,7 +60,8 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-0 items
+1 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -61,7 +69,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-11 items
+17 items
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$1
@@ -69,13 +77,18 @@ class names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$3
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$4
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$5
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$MyMetric$3
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$MyMetric$4$
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$main$1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$main$1$$anonfun$apply$1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$main$1$$anonfun$apply$1$$anonfun$6
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.KafkaSpark$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.SparkSessionSingleton
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming.SparkSessionSingleton$
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> sparkstreaming.MySparkKafkaProducer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> sparkstreaming.MySparkKafkaProducer$
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> sparkstreaming.MySparkKafkaProducer$$anonfun$1
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> sparkstreaming.MySparkKafkaProducer$$anonfun$1$$anonfun$apply$1
 used names:
-212 items
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> &&
+252 items
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> *
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> +
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ->
@@ -86,23 +99,20 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ==
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> >
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> A
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> AbstractFunction2
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Any
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> AnyRef
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Array
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ArrowAssoc
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> B
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> BinaryClassificationEvaluator
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> BinaryClassificationMetrics
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Boolean
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Broadcast
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Builder
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Byte
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Class
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ClassTag
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Cluster
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ConsumerConfig
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> CrossValidator
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> DStream
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> DataFrame
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Date
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Decoder
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> DefaultDecoder
@@ -110,12 +120,11 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Duration
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Function1
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Function3
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Future
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> HashMap
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Host
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> IndexOutOfBoundsException
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> InputDStream
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Int
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> IntegerType
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Iterator
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> K
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KD
@@ -123,52 +132,44 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KafkaSpark
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KafkaUtils
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> KeyType
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> LogisticRegression
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Long
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Map
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MapWithStateDStream
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MappedType
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MatchError
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Metadata
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MulticlassMetrics
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MyMetric
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> None
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> MySparkKafkaProducer
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Nothing
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Object
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Option
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Ordering
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> PairDStreamFunctions
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ParamGridBuilder
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ParamMap
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> PipelineModel
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Predef
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ProducerConfig
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ProducerRecord
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Product
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Properties
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> RDD
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Random
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SaveMode
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> RecordMetadata
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ScalaRunTime
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Seconds
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Serializable
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Session
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Set
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Some
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SparkConf
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SparkContext
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SparkSession
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> SparkSessionSingleton
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> State
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StateSpec
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StateType
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Statics
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StorageLevel
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> Stream
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StreamingContext
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> String
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StringContext
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StringDecoder
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> StringDeserializer
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T0
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T1
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T2
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> T3
@@ -187,12 +188,12 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _2
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _3
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _4
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> _toString
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> apache
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> apply
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> arrayClass
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> asInstanceOf
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> awaitTermination
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> broadcast
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> brokers
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> builder
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> cassandra
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> checkpoint
@@ -201,6 +202,7 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> clients
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> com
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> common
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> concurrent
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> conf
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> config
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> connector
@@ -208,18 +210,15 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> core
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> createDirectStream
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> datastax
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> doubleHash
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> driver
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> dstream
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> eq
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> evaluation
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> exists
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> feature
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> finalizeHash
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> fn
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> foreach
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> foreachPartition
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> foreachRDD
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> fp
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> function
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> functions
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> get
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> getOrCreate
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> getOrElse
@@ -227,40 +226,42 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> instance
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> instance_=
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> io
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> isInstanceOf
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> java
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> kafka
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> kafkaConf
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> load
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> kafkaProducer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> kafkaProducerConfig
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> map
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mapWithState
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mappingFunc
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> materializeClassTag
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> math
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> messages
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mix
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ml
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> mllib
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> metadata
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> org
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> package
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> pairs
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> param
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> partitionOfRecords
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> precision
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> prediction
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> print
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> println
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> producer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> props
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> put
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> rdd
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> recall
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> runtime
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> record
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> s
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sanitizedValue
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> scala
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> send
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> serialization
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> serializer
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> setAppName
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> setMaster
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> spark
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkConf
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkContext
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> sparkstreaming
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> split
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> splitted
@@ -275,102 +276,133 @@ used names:
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> tn
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> toInt
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> toPairDStreamFunctions
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> toString
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> toStream
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> topics
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> tp
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> tuning
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> typedProductIterator
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> types
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> update
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> util
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> value
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> values
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> x
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> ||
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> $conforms
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> <:<
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> <byname>
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> <init>
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> A
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Any
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> AnyRef
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> B
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Function0
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Future
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> JavaConversions
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> K
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> KafkaProducer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Map
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> MySparkKafkaProducer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Nothing
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Object
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Predef
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> ProducerRecord
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Properties
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> RecordMetadata
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Serializable
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> ShutdownHookThread
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> String
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> T
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Tuple2
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> U
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> Unit
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> V
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> _root_
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> addShutdownHook
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> apache
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> apply
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> clients
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> close
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> collection
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> concurrent
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> config
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> createProducer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> createProducerFunc
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> java
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> kafka
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> key
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> lang
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> mapAsJavaMap
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> org
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> package
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> producer
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> propertiesAsScalaMap
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> scala
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> send
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> sparkstreaming
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> sys
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> toMap
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> topic
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> util
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> value
 product stamps:
-11 items
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$1.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$2.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$3.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$4.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$5.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$MyMetric$3.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$MyMetric$4$.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/SparkSessionSingleton$.class -> lastModified(1541324169000)
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/SparkSessionSingleton.class -> lastModified(1541324169000)
+17 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$1.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$2.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$3.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$4.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$5.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1$$anonfun$apply$1$$anonfun$6.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1$$anonfun$apply$1.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$main$1.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer$$anonfun$1$$anonfun$apply$1.class -> lastModified(1541327593000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer$$anonfun$1.class -> lastModified(1541327593000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer$.class -> lastModified(1541327593000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/MySparkKafkaProducer.class -> lastModified(1541327593000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/SparkSessionSingleton$.class -> lastModified(1541328084000)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/target/scala-2.11/classes/sparkstreaming/SparkSessionSingleton.class -> lastModified(1541328084000)
 source stamps:
-1 items
-/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> hash(fa74096bf20d1aa5e26e2208d6adae85dd1ef69c)
+2 items
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> hash(d3680212056a86eb9eccf38c0388d602cd2a9467)
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> hash(7a5fb5e7b32ba0d4bafbee9652f7729bfcd0d4af)
 binary stamps:
-11 items
+9 items
 /home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar -> lastModified(1495063902000)
-/home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.8.2.1.jar -> lastModified(1424990549000)
-/home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-0.8.2.1.jar -> lastModified(1424990117000)
-/home/giorgio/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.1.jar -> lastModified(1511587618000)
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-1.0.0.jar -> lastModified(1509121871000)
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-1.0.0.jar -> lastModified(1509121852000)
 /home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar -> lastModified(1511587749000)
-/home/giorgio/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.1.jar -> lastModified(1511587859000)
 /home/giorgio/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.1.jar -> lastModified(1511587028000)
 /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming-kafka-0-8_2.11/jars/spark-streaming-kafka-0-8_2.11-2.2.1.jar -> lastModified(1511587060000)
 /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar -> lastModified(1511587938000)
 /home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
 /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1524066039000)
 class names:
-11 items
-/home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar -> com.datastax.driver.core.Metadata
-/home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.8.2.1.jar -> org.apache.kafka.clients.consumer.ConsumerConfig
-/home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-0.8.2.1.jar -> kafka.serializer.Decoder
-/home/giorgio/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.1.jar -> org.apache.spark.sql.types.IntegerType
-/home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar -> org.apache.spark.SparkConf$
-/home/giorgio/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.2.1.jar -> org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
+9 items
+/home/giorgio/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.11/jars/spark-cassandra-connector_2.11-2.0.2.jar -> com.datastax.driver.core.Host
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-1.0.0.jar -> org.apache.kafka.common.serialization.StringDeserializer
+/home/giorgio/.ivy2/cache/org.apache.kafka/kafka_2.11/jars/kafka_2.11-1.0.0.jar -> kafka.serializer.StringDecoder$
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.1.jar -> org.apache.spark.SparkConf
 /home/giorgio/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.1.jar -> org.apache.spark.sql.SparkSession$
 /home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming-kafka-0-8_2.11/jars/spark-streaming-kafka-0-8_2.11-2.2.1.jar -> org.apache.spark.streaming.kafka.KafkaUtils$
-/home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar -> org.apache.spark.streaming.dstream.MapWithStateDStream
-/home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Product
+/home/giorgio/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.1.jar -> org.apache.spark.streaming.StateSpec
+/home/giorgio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Predef$
 /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
 internal apis:
-1 items
+2 items
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwvKmv3gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPm/qrXQABm5vdGlmeXNxAH4ADGyQOP90AAtnZXRJbnN0YW5jZXNxAH4ADE3T0/J0AAR3YWl0c3EAfgAMQR6Y/XQADmdldFRyYW5zYWN0aW9uc3EAfgAMoRezSnQADSRhc0luc3RhbmNlT2ZzcQB+AAwdId0FdAAGZXF1YWxzc3EAfgAMHBLcIXQADGFzSW5zdGFuY2VPZnNxAH4ADBkf0u50AAxzeW5jaHJvbml6ZWRzcQB+AAx9i9OGdAANJGlzSW5zdGFuY2VPZnNxAH4ADNkdVJh0AARtYWluc3EAfgAMDf8byHQACW5vdGlmeUFsbHNxAH4ADDQgcMZ0AAxpc0luc3RhbmNlT2ZzcQB+AAzu052sdAACPT1zcQB+AAzrlCgedAAFY2xvbmVzcQB+AAyMibvzdAAVU3BhcmtTZXNzaW9uU2luZ2xldG9uc3EAfgAMRFa1YXQACHRvU3RyaW5nc3EAfgAM1MgKNXQAAiE9c3EAfgAM/rBuL3QACGdldENsYXNzc3EAfgAMQ8/MrnQAAm5lc3EAfgAM6IJEDnQAAmVxc3EAfgAM0UZ3ZXQACkthZmthU3BhcmtzcQB+AAyIt9mJdAACIyNzcQB+AAzEwj6ndAAIZmluYWxpemVzcQB+AAyNScrtdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZc3BhcmtzdHJlYW1pbmcuS2Fma2FTcGFya3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGRzcQB+AF91cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBjc3EAfgBydAAFQXJyYXlxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBydAAGU3RyaW5nc3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHhzcQB+AERxAH4AUXVxAH4AUgAAAABzcQB+AFQAdAAkc3BhcmtzdHJlYW1pbmcuU3BhcmtTZXNzaW9uU2luZ2xldG9udXEAfgBXAAAAAHEAfgBbdXEAfgBdAAAAAHNxAH4AX3EAfgBlc3EAfgBfc3EAfgBnc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AJcAAAACc3EAfgBycQB+AKdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+cQB+AJ9zcQB+AH5xAH4AoXEAfgCDc3EAfgBycQB+AKlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+cQB+AIFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADnNwYXJrc3RyZWFtaW5nc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFm3hRO+XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFkvZGF0YS9VbmlEYXRhL0RhdGFJbnRlbnNpdmVDb21wdXRpbmcvcHJvamVjdC9zcmMvc3BhcmtzdHJlYW1pbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPp0CWvyDRql4m4iCNatroXdHvac
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwvKmv3gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPm/qrXQABm5vdGlmeXNxAH4ADGyQOP90AAtnZXRJbnN0YW5jZXNxAH4ADE3T0/J0AAR3YWl0c3EAfgAMQR6Y/XQADmdldFRyYW5zYWN0aW9uc3EAfgAMoRezSnQADSRhc0luc3RhbmNlT2ZzcQB+AAwdId0FdAAGZXF1YWxzc3EAfgAMHBLcIXQADGFzSW5zdGFuY2VPZnNxAH4ADBkf0u50AAxzeW5jaHJvbml6ZWRzcQB+AAx9i9OGdAANJGlzSW5zdGFuY2VPZnNxAH4ADNkdVJh0AARtYWluc3EAfgAMDf8byHQACW5vdGlmeUFsbHNxAH4ADDQgcMZ0AAxpc0luc3RhbmNlT2ZzcQB+AAzu052sdAACPT1zcQB+AAzrlCgedAAFY2xvbmVzcQB+AAyMibvzdAAVU3BhcmtTZXNzaW9uU2luZ2xldG9uc3EAfgAMRFa1YXQACHRvU3RyaW5nc3EAfgAM1MgKNXQAAiE9c3EAfgAM/rBuL3QACGdldENsYXNzc3EAfgAMQ8/MrnQAAm5lc3EAfgAM6IJEDnQAAmVxc3EAfgAM0UZ3ZXQACkthZmthU3BhcmtzcQB+AAyIt9mJdAACIyNzcQB+AAzEwj6ndAAIZmluYWxpemVzcQB+AAyNScrtdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAZc3BhcmtzdHJlYW1pbmcuS2Fma2FTcGFya3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGRzcQB+AF91cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBjc3EAfgBydAAFQXJyYXlxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBydAAGU3RyaW5nc3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHhzcQB+AERxAH4AUXVxAH4AUgAAAABzcQB+AFQAdAAkc3BhcmtzdHJlYW1pbmcuU3BhcmtTZXNzaW9uU2luZ2xldG9udXEAfgBXAAAAAHEAfgBbdXEAfgBdAAAAAHNxAH4AX3EAfgBlc3EAfgBfc3EAfgBnc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AJcAAAACc3EAfgBycQB+AKdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+cQB+AJ9zcQB+AH5xAH4AoXEAfgCDc3EAfgBycQB+AKlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+cQB+AIFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADnNwYXJrc3RyZWFtaW5nc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFm3lAK/HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFkvZGF0YS9VbmlEYXRhL0RhdGFJbnRlbnNpdmVDb21wdXRpbmcvcHJvamVjdC9zcmMvc3BhcmtzdHJlYW1pbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNNoAhIFaobrnszzjAOI1gLNKpRn
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6kIlKAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwG3++C3QABm5vdGlmeXNxAH4ADLb2VkF0ABRNeVNwYXJrS2Fma2FQcm9kdWNlcnNxAH4ADNapXoJ0AAR3YWl0c3EAfgAMndiSKXQADSRhc0luc3RhbmNlT2ZzcQB+AAxncjxidAAGZXF1YWxzc3EAfgAMiC23UnQADGFzSW5zdGFuY2VPZnNxAH4ADOYANTJ0AAxzeW5jaHJvbml6ZWRzcQB+AAxqnYZldAANJGlzSW5zdGFuY2VPZnNxAH4ADHzPbJB0AAlub3RpZnlBbGxzcQB+AAyZhCTzdAAMaXNJbnN0YW5jZU9mc3EAfgAMRDmITXQABjxpbml0PnNxAH4ADFu8GiB0AAVhcHBseXNxAH4ADH9UAN10AAI9PXNxAH4ADDAuVS50AAVjbG9uZXNxAH4ADCY1Llp0AAh0b1N0cmluZ3NxAH4ADOuaA590AAIhPXNxAH4ADEdaWHJ0AAhnZXRDbGFzc3NxAH4ADKRLc9R0AAJuZXNxAH4ADGxNbgZ0AAJlcXNxAH4ADP1KXIN0AAIjI3NxAH4ADMR5a7F0AAhmaW5hbGl6ZXNxAH4ADGAqqWl0AAhwcm9kdWNlcnNxAH4ADKSJlBh0AAhoYXNoQ29kZXNxAH4ADN89onp0AARzZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAI3NwYXJrc3RyZWFtaW5nLk15U3BhcmtLYWZrYVByb2R1Y2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAJzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AExMAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBJTAAKdXBwZXJCb3VuZHEAfgBaTAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgBSAAAAAHQAJXNwYXJrc3RyZWFtaW5nLk15U3BhcmtLYWZrYVByb2R1Y2VyLktzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AbnVxAH4AVwAAAABzcQB+AF90AANBbnlxAH4AZ35yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnRzcQB+AFl1cQB+AFIAAAAAdAAlc3BhcmtzdHJlYW1pbmcuTXlTcGFya0thZmthUHJvZHVjZXIuVnEAfgBjdXEAfgBXAAAAAHEAfgB0cQB+AHh+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHd0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AYXNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGJzcQB+AIN1cQB+AEIAAAAAc3EAfgCDdXEAfgBCAAAAAHNxAH4Ag3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3EAfgBfdAAMU2VyaWFsaXphYmxlc3EAfgBlc3EAfgBodXEAfgBrAAAAAnNxAH4AbXEAfgBwcQB+AHJzcQB+AF9xAH4Ak3NxAH4AZXNxAH4AaHVxAH4AawAAAANzcQB+AG10AARqYXZhc3EAfgBtdAACaW9xAH4AcnNxAH4AX3QABk9iamVjdHNxAH4AZXNxAH4AaHVxAH4AawAAAANzcQB+AG1xAH4AnXNxAH4AbXQABGxhbmdxAH4AcnNxAH4AX3EAfgB1cQB+AJRzcQB+AERxAH4AUXVxAH4AUgAAAABzcQB+AFQAdAAjc3BhcmtzdHJlYW1pbmcuTXlTcGFya0thZmthUHJvZHVjZXJ1cQB+AFcAAAAAfnEAfgB+dAAGTW9kdWxldXEAfgCBAAAAAHNxAH4Ag3EAfgCHc3EAfgCDc3EAfgCJc3EAfgCDdXEAfgBCAAAAAHNxAH4Ag3VxAH4AQgAAAABzcQB+AIN1cQB+AJAAAAAEc3EAfgBfcQB+AJNzcQB+AGVzcQB+AGh1cQB+AGsAAAACc3EAfgBtcQB+AHBxAH4AcnNxAH4AX3EAfgCTc3EAfgBlc3EAfgBodXEAfgBrAAAAA3NxAH4AbXEAfgCdc3EAfgBtdAACaW9xAH4AcnNxAH4AX3EAfgChc3EAfgBlc3EAfgBodXEAfgBrAAAAA3NxAH4AbXEAfgCdc3EAfgBtcQB+AKdxAH4AcnNxAH4AX3EAfgB1cQB+ALt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA5zcGFya3N0cmVhbWluZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt5IihZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABZL2RhdGEvVW5pRGF0YS9EYXRhSW50ZW5zaXZlQ29tcHV0aW5nL3Byb2plY3Qvc3JjL3NwYXJrc3RyZWFtaW5nL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR6X7Xnsyug1Lr77pZS93Kb/NDUrw==
 external apis:
 0 items
 source infos:
-1 items
+2 items
 /data/UniData/DataIntensiveComputing/project/src/sparkstreaming/KafkaSpark.scala -> 
 AAAAAAAAAAA=
+/data/UniData/DataIntensiveComputing/project/src/sparkstreaming/MySparkKafkaProducer.scala -> 
+AAAAAAAAAAA=
 compilations:
-33 items
-00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs+pMPN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs+uP951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs+vs4l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs/XM/B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs//2sJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAAfXZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAElYR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAVkPx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAYugl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAZxqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAg8pN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAjHEV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAlb9l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAovCt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAqjMh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAtkTN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAwzZd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtAyJA51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtA0AuF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtA1sCZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtA24Y11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtA4Y6V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtBOwkt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtBQofh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtBaDXZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtBczbZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtBe2AR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZtQkYYV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt3/mgR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt4DEp91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt4Loh91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt4N0Gd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt4UTvl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt5IihZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt5LN0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt5OxdJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZt5QCvx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9kYXRhL1VuaURhdGEvRGF0YUludGVuc2l2ZUNvbXB1dGluZy9wcm9qZWN0L3NyYy9zcGFya3N0cmVhbWluZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

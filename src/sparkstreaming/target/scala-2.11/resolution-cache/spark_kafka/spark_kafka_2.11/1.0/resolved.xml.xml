@@ -4,7 +4,7 @@
 		module="spark_kafka_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20181101152931"
+		publication="20181104113300"
 	>
 		<description>
 		spark_kafka
@@ -45,5 +45,6 @@
 		<dependency org="com.datastax.cassandra" name="cassandra-driver-core" rev="3.0.0" conf="compile->default(compile)">
 			<exclude org="io.netty" module="netty-handler" name="*" type="*" ext="*" conf="" matcher="exact"/>
 		</dependency>
+		<dependency org="org.apache.kafka" name="kafka_2.11" rev="1.0.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

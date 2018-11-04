@@ -11,7 +11,7 @@ import org.apache.spark.streaming._
 import org.apache.spark.streaming.kafka._
 import org.apache.spark.storage.StorageLevel
 import java.util.{Date, Properties}
-import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord, ProducerConfig}
+import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord, ProducerConfig, RecordMetadata}
 import scala.util.Random
 
 import org.apache.spark.sql.cassandra._
@@ -22,22 +22,29 @@ import com.datastax.spark.connector.streaming._
 import org.apache.spark._
 import org.apache.spark.streaming._
 import org.apache.spark.streaming.StreamingContext._
+import org.apache.spark.broadcast._
+import java.util.concurrent.Future
 
 
-import org.apache.spark.ml._
-import org.apache.spark.ml.feature._
-import org.apache.spark.ml.classification.LogisticRegression
-import org.apache.spark.sql.functions._
-import org.apache.spark.sql.SaveMode
-import org.apache.spark.sql.DataFrame
-import org.apache.spark.sql.types.IntegerType
-import org.apache.spark.ml.tuning.ParamGridBuilder
-import org.apache.spark.ml.param.ParamMap
-import org.apache.spark.ml.tuning.CrossValidator
-import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
-import org.apache.spark.mllib.evaluation.MulticlassMetrics
-import org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
+
+
+//import org.apache.spark.ml._
+//import org.apache.spark.ml.feature._
+//import org.apache.spark.ml.classification.LogisticRegression
+//import org.apache.spark.sql.functions._
+//import org.apache.spark.sql.SaveMode
+//import org.apache.spark.sql.DataFrame
+//import org.apache.spark.sql.types.IntegerType
+//import org.apache.spark.ml.tuning.ParamGridBuilder
+//import org.apache.spark.ml.param.ParamMap
+//import org.apache.spark.ml.tuning.CrossValidator
+//import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
+//import org.apache.spark.mllib.evaluation.MulticlassMetrics
+//import org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
+
 import org.apache.spark.sql.SparkSession
+import org.apache.kafka.clients.producer.ProducerConfig
+
 
 object KafkaSpark {
   
@@ -49,11 +56,32 @@ object KafkaSpark {
   def main(args: Array[String]) {
 
     // Create Spark Context
-    val conf = new SparkConf().setMaster("local[2]").setAppName("CreditCardFraud")
+    val conf = new SparkConf().setMaster("local[*]").setAppName("CreditCardFraud")
     val ssc = new StreamingContext(conf, Seconds(1))
 //    val tp = ssc.longAccumulator("truePositives")
 
-    val model = PipelineModel.load("../../data/logistic_regression_model")
+    ssc.checkpoint("/tmp")
+
+    // Use a wrapper of a kafka producer in order to serialize it and send it as a broadcast variable
+    // in order to avoid creating a new one from scratch for each partition
+    // in this way we have one for each JMV instance
+    val kafkaProducer: Broadcast[MySparkKafkaProducer[Array[Byte], String]] = {
+      val kafkaProducerConfig = {
+
+        val brokers = "localhost:9092"
+        val props = new Properties()
+        props.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, brokers)
+        props.put(ProducerConfig.CLIENT_ID_CONFIG, "metrics_producer")
+        props.put("group.id", "kafka-spark-streaming2")
+        props.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringSerializer")
+        props.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringSerializer")
+        props
+      }
+      ssc.sparkContext.broadcast(MySparkKafkaProducer[Array[Byte], String](kafkaProducerConfig))
+    }
+
+//    val model = PipelineModel.load("../../data/logistic_regression_model")
+
 
     // Make a connection to Kafka and read (key, value) pairs from it
     val kafkaConf = Map(
@@ -126,7 +154,8 @@ object KafkaSpark {
     }
 
 
-    def mappingFunc(key: Int, value: Option[Int], state: State[(Int,Int,Int,Int)]): (Double, Double, Int, Int, Int, Int) = {
+//    def mappingFunc(key: Int, value: Option[Int], state: State[(Int,Int,Int,Int)]): (Double, Double, Int, Int, Int, Int) = {
+      def mappingFunc(key: Int, value: Option[Int], state: State[(Int,Int,Int,Int)]): (String) = {
 
       val sanitizedValue = value.getOrElse(0) //CAREFUL TO PUT THE 0D Otherwise it could be either Double or Int! and the sum won't work!
 
@@ -158,20 +187,28 @@ object KafkaSpark {
       val recall : Double = if (tp > 0 ) (1.0D * tp / (tp + fn)) else 0
       val precision : Double = if (tp > 0 ) (1.0D * tp / (tp + fp)) else 0
 
-      (precision, recall,  tp, fn, fp, tn)
+//      (precision, recall,  tp, fn, fp, tn)
+      (s"$precision, $recall, $tp, $fn, $fp, $tn")
 
-    }
+      }
 
 
     val pairs = messages.map(x => x._2).map(getTransaction).map(classify)
 
     val stateDstream = pairs.mapWithState(StateSpec.function(mappingFunc _))
 
-    stateDstream.print
+//    stateDstream.print
+    stateDstream.foreachRDD { rdd =>
+      rdd.foreachPartition { partitionOfRecords =>
+        val metadata: Stream[Future[RecordMetadata]] = partitionOfRecords.map { record =>
+          kafkaProducer.value.send("creditcard_metrics", record)
+        }.toStream
+        metadata.foreach { metadata => metadata.get() }
+      }
+    }
 
     //stateDstream.getStatistics()
 
-    ssc.checkpoint("/tmp")
     ssc.start()
     ssc.awaitTermination()
 
